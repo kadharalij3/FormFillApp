@@ -4,8 +4,12 @@
     <p>Please fill in this form</p>
     <hr>
 
-    <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+    <label for="name"><b>First Name</b></label>
+    <input type="text" placeholder="Enter First Name" name="name" id="name" required>
+    <hr>
+
+    <label for="name"><b>Last Name</b></label>
+    <input type="text" placeholder="Enter Last Name" name="name" id="name" required>
     <hr>
 
     <label for="fathername"><b>Father Name</b></label>
